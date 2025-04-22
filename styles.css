@@ -164,13 +164,13 @@ h1 {
 .f-wrapper--2 .flower__leaf:not(:first-child) {
   width: 3.8vmin;
   height: 10vmin;
-  background-image: linear-gradient(to bottom, #e0ff43, #c22887, #1a233a 99%);
+   background-image: linear-gradient(to bottom, #FFFACD, #c22887, #1a233a 99%);
 }
 
 .f-wrapper--3 .flower__leaf:not(:first-child) {
   width: 3.8vmin;
   height: 10vmin;
-  background-image: linear-gradient(to bottom, #bfe02b, #712291, #1a233a 99%);
+  background-image: linear-gradient(to bottom, #f7f0b3, #712291, #1a233a 99%);
 }
 
 .f-wrapper--3 .flower__leaf--1 {
